@@ -1,0 +1,27 @@
+{
+  "costLimit": 5,
+  "services": {
+    "contentGeneration": {
+      "enabled": true,
+      "apiEndpoint": "https://api.contentgenerator.com/generate"
+    },
+    "imageGeneration": {
+      "enabled": true,
+      "apiEndpoint": "https://api.imagegenerator.com/generate"
+    },
+    "qualityCheck": {
+      "enabled": true,
+      "threshold": 80
+    },
+    "referenceValidation": {
+      "enabled": true
+    },
+    "copyrightManagement": {
+      "enabled": true
+    }
+  },
+  "logging": {
+    "level": "info",
+    "logFile": "logs/app.log"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "openai": {
+    "apiKey": "your-openai-api-key-here",
+    "organization": "your-org-id-optional"
+  },
+  "unsplash": {
+    "accessKey": "your-unsplash-access-key-here"
+  },
+  "costLimits": {
+    "dailyBudgetCAD": 5.00,
+    "perRequestLimitCAD": 2.00
+  },
+  "serviceEndpoint1": "https://api.openai.com/v1",
+  "serviceEndpoint2": "https://api.unsplash.com"
+}
