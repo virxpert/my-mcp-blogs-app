@@ -3,7 +3,7 @@
 
 **By Mohit Goyal – Infra Transformation Manager**
 
-![Banner Image](banner-image-placeholder.png)
+![Banner Image](banner-placeholder.png)
 
 AI tools like GPT and Microsoft 365 Copilot are transforming how we work, think, and solve problems. But to truly unlock their potential, we need more than just access—we need a framework for collaboration. In this post, I’ll share a practical guide I use to work with AI effectively, inspired by Microsoft’s declarative agent design principles.
 
